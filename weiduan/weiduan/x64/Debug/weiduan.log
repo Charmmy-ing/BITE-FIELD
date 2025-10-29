@@ -1,0 +1,3 @@
+﻿  weiduan.c
+D:\C\weiduan\weiduan\weiduan.c(17,15): warning C4133: “初始化”: 从“unsigned char *”到“Bit *”的类型不兼容
+  weiduan.vcxproj -> D:\C\weiduan\x64\Debug\weiduan.c.exe
